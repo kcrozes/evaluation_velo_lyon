@@ -1,0 +1,19 @@
+{
+  "name": "velo_lyon",
+  "version": "1.0.0",
+  "description": "Site pour des vélos à Lyon",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kcrozes/evaluation_velo_lyon.git"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "leaflet.markercluster": "^1.5.0"
+  }
+}

@@ -1,0 +1,43 @@
+header a,
+footer a{
+  text-decoration: none;
+}
+
+footer a{
+  color : white;
+}
+
+/*---------------Header----------------*/
+
+
+
+
+img {
+  height: 150px;
+
+}
+
+
+/*---------------MAP---------*/
+
+h1{
+  display : flex;
+  justify-content: center;
+  margin: 15px !important;
+  padding-right: 40px;
+  font-family: 'Caveat', cursive;
+}
+
+
+#map{
+    height:75vh;
+    
+  }
+
+/*-------------------Footer-----------------*/
+
+#footer{
+  display: flex;
+  justify-content: center;
+  background-color:gray;
+}
